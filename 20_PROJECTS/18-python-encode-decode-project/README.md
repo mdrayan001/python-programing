@@ -12,3 +12,12 @@ A simple graphical user interface (GUI) application built using Python and the T
 - Python 3.x
 - Tkinter (Standard GUI library for Python)
 - Base64 (For encoding and decoding data)
+
+## How to Run
+
+1. Clone the repository or download the source code.
+2. Ensure you have Python installed on your system.
+3. Run the script using the following command:
+   ```bash
+   python encode-decode.py
+   ```
