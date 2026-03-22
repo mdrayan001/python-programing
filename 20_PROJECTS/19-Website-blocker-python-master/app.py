@@ -1,4 +1,3 @@
-# Author: mdrayan001
 import time
 from datetime import datetime as dt
 import os
