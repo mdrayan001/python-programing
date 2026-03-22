@@ -1,4 +1,3 @@
-# Author: mdrayan001
 import time
 import ctypes
 
